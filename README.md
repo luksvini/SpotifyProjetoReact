@@ -9,7 +9,6 @@ Este projeto é uma aplicação web que permite aos usuários explorar artistas 
 - 🎶 Listagem de músicas disponíveis.
 - 🎤 Exibição de artistas.
 - ▶️ Player de música com controles de reprodução e volume.
-- 🔍 Busca e filtragem de músicas e artistas.
 - 📱 Interface responsiva.
 
 ## Tecnologias Utilizadas ⚙️
